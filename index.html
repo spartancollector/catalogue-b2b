@@ -65,6 +65,11 @@
   .card-name { font-size:14px; font-weight:bold; line-height:1.3; }
   .card-sku { font-size:11px; color: var(--gold-dim); font-family: monospace; }
   .card-price { font-size:20px; font-weight:bold; color: var(--gold); }
+  .stock-out-badge {
+    display: inline-block; font-size:13px; font-weight:bold;
+    color: #e88; background: rgba(165,36,57,0.2);
+    padding: 6px 12px; border-radius:6px;
+  }
   .card-notes { font-size:11px; color: var(--gold-dim); font-style:italic; }
 
   .empty { text-align:center; padding:60px 20px; color: var(--gold-dim); }
@@ -153,13 +158,16 @@ function renderGrid() {
 
   document.getElementById("emptyState").style.display = filtered.length === 0 ? "block" : "none";
   grid.innerHTML = filtered.map(p => {
+    const priceHtml = p.outOfStock
+      ? `<div class="stock-out-badge">Out of stock</div>`
+      : `<div class="card-price">${p.price.toFixed(2)} €</div>`;
     return `
       <div class="card">
         ${p.img ? `<img class="card-img" src="${p.img}" alt="${p.name}" loading="lazy">` : ""}
         <div class="card-cat">${p.category}</div>
         <div class="card-name">${p.name}</div>
         <div class="card-sku">${p.sku}</div>
-        <div class="card-price">${p.price.toFixed(2)} €</div>
+        ${priceHtml}
         ${p.notes ? `<div class="card-notes">${p.notes}</div>` : ""}
       </div>`;
   }).join("");
