@@ -1008,5 +1008,24 @@
     "notes": "",
     "img": "",
     "outOfStock": true
+  },
+  {
+    "id": "seed-114",
+    "name": "Gem Pack 6",
+    "sku": "GEMPACK-6",
+    "category": "Pokémon CN",
+    "price": 29.9,
+    "notes": "",
+    "img": ""
+  },
+  {
+    "id": "seed-115",
+    "name": "M6A",
+    "sku": "M6A",
+    "category": "Pokémon JP",
+    "price": 0,
+    "notes": "Coming Soon",
+    "img": "",
+    "outOfStock": true
   }
 ]
