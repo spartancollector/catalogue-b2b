@@ -853,6 +853,56 @@
     "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/13.png?v=1788243148"
   },
   {
+    "id": "seed-83",
+    "name": "Dragon Ball — SB01",
+    "sku": "SB01",
+    "category": "Dragon Ball",
+    "price": 0,
+    "notes": "",
+    "img": "",
+    "outOfStock": true
+  },
+  {
+    "id": "seed-84",
+    "name": "Dragon Ball — SB02",
+    "sku": "SB02",
+    "category": "Dragon Ball",
+    "price": 0,
+    "notes": "",
+    "img": "",
+    "outOfStock": true
+  },
+  {
+    "id": "seed-85",
+    "name": "Dragon Ball — FB01",
+    "sku": "FB01",
+    "category": "Dragon Ball",
+    "price": 0,
+    "notes": "",
+    "img": "",
+    "outOfStock": true
+  },
+  {
+    "id": "seed-86",
+    "name": "Dragon Ball — FB02",
+    "sku": "FB02",
+    "category": "Dragon Ball",
+    "price": 0,
+    "notes": "",
+    "img": "",
+    "outOfStock": true
+  },
+  {
+    "id": "seed-87",
+    "name": "Dragon Ball — FB03",
+    "sku": "FB03",
+    "category": "Dragon Ball",
+    "price": 0,
+    "notes": "",
+    "img": "",
+    "outOfStock": true
+  },
+  {
     "id": "seed-88",
     "name": "Saint Seiya TCG Booster Box (Kayou)",
     "sku": "SAINTSEIYA",
@@ -878,33 +928,6 @@
     "price": 79.9,
     "notes": "",
     "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/Gemini_Generated_Image_82svsa82svsa82sv_27b81393-f9ae-420f-839d-f6f13317583c.png?v=1785250937"
-  },
-  {
-    "id": "seed-92",
-    "name": "Luffy Watermelon (Oda) — Carte à l'unité",
-    "sku": "SINGLE-LUFFY-WATERMELON-ODA",
-    "category": "Goodies",
-    "price": 49.9,
-    "notes": "",
-    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/Gemini_Generated_Image_nru6l0nru6l0nru6.png?v=1785269794"
-  },
-  {
-    "id": "seed-93",
-    "name": "Monkey D. Luffy P-159 — Promo Weekly Jump 33 (Elbaf)",
-    "sku": "SINGLE-LUFFY-P159-WJ33",
-    "category": "Goodies",
-    "price": 39.9,
-    "notes": "",
-    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/Gemini_Generated_Image_ippyn1ippyn1ippy.png?v=1785269722"
-  },
-  {
-    "id": "seed-94",
-    "name": "Weekly Shonen Jump 2026 #33 — avec carte promo Luffy P-159",
-    "sku": "WJ-33-2026",
-    "category": "Goodies",
-    "price": 44.9,
-    "notes": "",
-    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/Gemini_Generated_Image_51x3cp51x3cp51x3.png?v=1785269453"
   },
   {
     "id": "seed-95",
@@ -1060,53 +1083,30 @@
     "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/2024ToppsBowmanChromeBaseballHobbyMasterBox_d1767d0b-c39c-4ba8-9a7d-b502e59cbc07.avif?v=1786703032"
   },
   {
-    "id": "seed-83",
-    "name": "Dragon Ball — SB01",
-    "sku": "SB01",
-    "category": "Dragon Ball",
-    "price": 0,
+    "id": "seed-92",
+    "name": "Luffy Watermelon (Oda) — Carte à l'unité",
+    "sku": "SINGLE-LUFFY-WATERMELON-ODA",
+    "category": "Goodies",
+    "price": 49.9,
     "notes": "",
-    "img": "",
-    "outOfStock": true
+    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/Gemini_Generated_Image_nru6l0nru6l0nru6.png?v=1785269794"
   },
   {
-    "id": "seed-84",
-    "name": "Dragon Ball — SB02",
-    "sku": "SB02",
-    "category": "Dragon Ball",
-    "price": 0,
+    "id": "seed-93",
+    "name": "Monkey D. Luffy P-159 — Promo Weekly Jump 33 (Elbaf)",
+    "sku": "SINGLE-LUFFY-P159-WJ33",
+    "category": "Goodies",
+    "price": 39.9,
     "notes": "",
-    "img": "",
-    "outOfStock": true
+    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/Gemini_Generated_Image_ippyn1ippyn1ippy.png?v=1785269722"
   },
   {
-    "id": "seed-85",
-    "name": "Dragon Ball — FB01",
-    "sku": "FB01",
-    "category": "Dragon Ball",
-    "price": 0,
+    "id": "seed-94",
+    "name": "Weekly Shonen Jump 2026 #33 — avec carte promo Luffy P-159",
+    "sku": "WJ-33-2026",
+    "category": "Goodies",
+    "price": 44.9,
     "notes": "",
-    "img": "",
-    "outOfStock": true
-  },
-  {
-    "id": "seed-86",
-    "name": "Dragon Ball — FB02",
-    "sku": "FB02",
-    "category": "Dragon Ball",
-    "price": 0,
-    "notes": "",
-    "img": "",
-    "outOfStock": true
-  },
-  {
-    "id": "seed-87",
-    "name": "Dragon Ball — FB03",
-    "sku": "FB03",
-    "category": "Dragon Ball",
-    "price": 0,
-    "notes": "",
-    "img": "",
-    "outOfStock": true
+    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/Gemini_Generated_Image_51x3cp51x3cp51x3.png?v=1785269453"
   }
 ]
