@@ -306,6 +306,16 @@
     "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/897847.png?v=1786092112"
   },
   {
+    "id": "seed-35",
+    "name": "Gem Pack 1",
+    "sku": "GEMPACK-1",
+    "category": "Pokémon CN",
+    "price": 0,
+    "notes": "Brouillon, prix à définir",
+    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/download.webp?v=1785846016",
+    "outOfStock": true
+  },
+  {
     "id": "seed-36",
     "name": "Gem Pack 2",
     "sku": "GEMPACK-2",
@@ -340,6 +350,15 @@
     "price": 37.4,
     "notes": "",
     "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/Gem_Pack_5.png?v=1785846097"
+  },
+  {
+    "id": "seed-114",
+    "name": "Gem Pack 6",
+    "sku": "GEMPACK-6",
+    "category": "Pokémon CN",
+    "price": 29.9,
+    "notes": "",
+    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/packgem6.webp?v=1787035928"
   },
   {
     "id": "seed-40",
@@ -1000,16 +1019,6 @@
     "img": ""
   },
   {
-    "id": "seed-35",
-    "name": "Gem Pack 1",
-    "sku": "GEMPACK-1",
-    "category": "Pokémon CN",
-    "price": 0,
-    "notes": "Brouillon, prix à définir",
-    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/download.webp?v=1785846016",
-    "outOfStock": true
-  },
-  {
     "id": "seed-53",
     "name": "PRB01",
     "sku": "PRB01",
@@ -1098,15 +1107,6 @@
     "notes": "",
     "img": "",
     "outOfStock": true
-  },
-  {
-    "id": "seed-114",
-    "name": "Gem Pack 6",
-    "sku": "GEMPACK-6",
-    "category": "Pokémon CN",
-    "price": 29.9,
-    "notes": "",
-    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/packgem6.webp?v=1787035928"
   },
   {
     "id": "seed-115",
