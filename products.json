@@ -148,7 +148,7 @@
     "name": "M6A",
     "sku": "M6A",
     "category": "Pokémon JP",
-    "price": 0,
+    "price": 125,
     "notes": "Coming Soon",
     "img": "https://raw.githubusercontent.com/spartancollector/catalogue-b2b/main/images/M6A.png",
     "outOfStock": true
