@@ -144,6 +144,16 @@
     "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/Hiroshima_Pikachu_Gift_Box_aa156e2b-5ceb-41f3-9f99-df1ac531d9c5.png?v=1785857224"
   },
   {
+    "id": "seed-115",
+    "name": "M6A",
+    "sku": "M6A",
+    "category": "Pokémon JP",
+    "price": 0,
+    "notes": "Coming Soon",
+    "img": "https://raw.githubusercontent.com/spartancollector/catalogue-b2b/main/images/M6A.png",
+    "outOfStock": true
+  },
+  {
     "id": "seed-17",
     "name": "Team Rocket's Grand Ambition — Exclusive Collector Case",
     "sku": "PKM-TR-CASE-2026",
@@ -1096,16 +1106,6 @@
     "category": "Dragon Ball",
     "price": 0,
     "notes": "",
-    "img": "",
-    "outOfStock": true
-  },
-  {
-    "id": "seed-115",
-    "name": "M6A",
-    "sku": "M6A",
-    "category": "Pokémon JP",
-    "price": 0,
-    "notes": "Coming Soon",
     "img": "",
     "outOfStock": true
   }
