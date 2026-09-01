@@ -578,6 +578,46 @@
     "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/i_ec_20260525203958.jpg?v=1785912921"
   },
   {
+    "id": "seed-53",
+    "name": "PRB01",
+    "sku": "PRB01",
+    "category": "One Piece JP",
+    "price": 73.27,
+    "notes": "",
+    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/mv_01_2a4ef4bf-203d-4835-9e09-545fad2689e3.jpg?v=1788230556",
+    "outOfStock": true
+  },
+  {
+    "id": "seed-54",
+    "name": "PRB02",
+    "sku": "PRB02",
+    "category": "One Piece JP",
+    "price": 46.34,
+    "notes": "(photo provisoire - version CN, JP à venir)",
+    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/i_ec_20260525204141.jpg?v=1786005652",
+    "outOfStock": true
+  },
+  {
+    "id": "seed-55",
+    "name": "EB01",
+    "sku": "EB01",
+    "category": "One Piece JP",
+    "price": 77.58,
+    "notes": "",
+    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/mv_01_01697310-7af0-4fd0-bff7-8f89320eaf5a.jpg?v=1788230556",
+    "outOfStock": true
+  },
+  {
+    "id": "seed-56",
+    "name": "EB02",
+    "sku": "EB02",
+    "category": "One Piece JP",
+    "price": 79.74,
+    "notes": "(photo provisoire - version CN, JP à venir)",
+    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/808199.png?v=1786096816",
+    "outOfStock": true
+  },
+  {
     "id": "seed-58",
     "name": "PRBC2 — The Best 2 (PRB-02)",
     "sku": "PRBC2",
@@ -1017,46 +1057,6 @@
     "price": 123.04,
     "notes": "",
     "img": ""
-  },
-  {
-    "id": "seed-53",
-    "name": "PRB01",
-    "sku": "PRB01",
-    "category": "One Piece JP",
-    "price": 73.27,
-    "notes": "",
-    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/mv_01_2a4ef4bf-203d-4835-9e09-545fad2689e3.jpg?v=1788230556",
-    "outOfStock": true
-  },
-  {
-    "id": "seed-54",
-    "name": "PRB02",
-    "sku": "PRB02",
-    "category": "One Piece JP",
-    "price": 46.34,
-    "notes": "(photo provisoire - version CN, JP à venir)",
-    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/i_ec_20260525204141.jpg?v=1786005652",
-    "outOfStock": true
-  },
-  {
-    "id": "seed-55",
-    "name": "EB01",
-    "sku": "EB01",
-    "category": "One Piece JP",
-    "price": 77.58,
-    "notes": "",
-    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/mv_01_01697310-7af0-4fd0-bff7-8f89320eaf5a.jpg?v=1788230556",
-    "outOfStock": true
-  },
-  {
-    "id": "seed-56",
-    "name": "EB02",
-    "sku": "EB02",
-    "category": "One Piece JP",
-    "price": 79.74,
-    "notes": "(photo provisoire - version CN, JP à venir)",
-    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/808199.png?v=1786096816",
-    "outOfStock": true
   },
   {
     "id": "seed-83",
