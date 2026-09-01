@@ -378,6 +378,66 @@
     "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/151_Fat_Gather_CN_dup.png?v=1785846403"
   },
   {
+    "id": "seed-57",
+    "name": "OP-01",
+    "sku": "OP-01",
+    "category": "One Piece JP",
+    "price": 118.52,
+    "notes": "",
+    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/i_ec_20260525204043.jpg?v=1785912993",
+    "outOfStock": true
+  },
+  {
+    "id": "seed-116",
+    "name": "OP-02 — Paramount War",
+    "sku": "OP-02",
+    "category": "One Piece JP",
+    "price": 98.05,
+    "notes": "",
+    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/i_ec_20260525204043.jpg?v=1785912993",
+    "outOfStock": true
+  },
+  {
+    "id": "seed-117",
+    "name": "OP-03 — Pillars of Strength",
+    "sku": "OP-03",
+    "category": "One Piece JP",
+    "price": 96.97,
+    "notes": "",
+    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/i_ec_20260525204043.jpg?v=1785912993",
+    "outOfStock": true
+  },
+  {
+    "id": "seed-118",
+    "name": "OP-04 — Kingdoms of Intrigue",
+    "sku": "OP-04",
+    "category": "One Piece JP",
+    "price": 86.2,
+    "notes": "",
+    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/i_ec_20260525204043.jpg?v=1785912993",
+    "outOfStock": true
+  },
+  {
+    "id": "seed-119",
+    "name": "OP-05 — Awakening of the New Era",
+    "sku": "OP-05",
+    "category": "One Piece JP",
+    "price": 143.31,
+    "notes": "",
+    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/i_ec_20260525204043.jpg?v=1785912993",
+    "outOfStock": true
+  },
+  {
+    "id": "seed-120",
+    "name": "OP-06 — Wings of the Captain",
+    "sku": "OP-06",
+    "category": "One Piece JP",
+    "price": 73.27,
+    "notes": "",
+    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/i_ec_20260525204043.jpg?v=1785912993",
+    "outOfStock": true
+  },
+  {
     "id": "seed-44",
     "name": "OP-07 — 500 Years into the Future",
     "sku": "OP-07",
@@ -387,6 +447,16 @@
     "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/i_ec_20260525204133.png?v=1785913058"
   },
   {
+    "id": "seed-121",
+    "name": "OP-08 — Two Legends",
+    "sku": "OP-08",
+    "category": "One Piece JP",
+    "price": 40.95,
+    "notes": "",
+    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/i_ec_20260525204043.jpg?v=1785912993",
+    "outOfStock": true
+  },
+  {
     "id": "seed-45",
     "name": "OP-09 — Emperors in the New World",
     "sku": "OP-09",
@@ -394,6 +464,16 @@
     "price": 105.6,
     "notes": "",
     "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/i_ec_20260525204051.jpg?v=1785913098"
+  },
+  {
+    "id": "seed-122",
+    "name": "OP-10 — Royal Blood",
+    "sku": "OP-10",
+    "category": "One Piece JP",
+    "price": 36.64,
+    "notes": "",
+    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/i_ec_20260525204043.jpg?v=1785912993",
+    "outOfStock": true
   },
   {
     "id": "seed-46",
@@ -423,6 +503,26 @@
     "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/i_ec_20260525204214.jpg?v=1785913276"
   },
   {
+    "id": "seed-123",
+    "name": "OP-14 — The Azure Sea's Seven",
+    "sku": "OP-14",
+    "category": "One Piece JP",
+    "price": 64.65,
+    "notes": "",
+    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/i_ec_20260525204043.jpg?v=1785912993",
+    "outOfStock": true
+  },
+  {
+    "id": "seed-124",
+    "name": "OP-15 — Adventure on the Island of the Gods",
+    "sku": "OP-15",
+    "category": "One Piece JP",
+    "price": 56.02,
+    "notes": "",
+    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/i_ec_20260525204043.jpg?v=1785912993",
+    "outOfStock": true
+  },
+  {
     "id": "seed-49",
     "name": "OP-16 — The Time of Battle",
     "sku": "OP-16",
@@ -430,6 +530,15 @@
     "price": 64.65,
     "notes": "",
     "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/891004.png?v=1786091534"
+  },
+  {
+    "id": "seed-52",
+    "name": "OP-17 — The World's Strongest Warriors",
+    "sku": "OP-17",
+    "category": "One Piece JP",
+    "price": 94.83,
+    "notes": "Précommande, mi-août",
+    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/Display-OP17-Japonais.png?v=1785913391"
   },
   {
     "id": "seed-50",
@@ -448,15 +557,6 @@
     "price": 47.41,
     "notes": "",
     "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/i_ec_20260525203958.jpg?v=1785912921"
-  },
-  {
-    "id": "seed-52",
-    "name": "OP-17 — The World's Strongest Warriors",
-    "sku": "OP-17",
-    "category": "One Piece JP",
-    "price": 109.9,
-    "notes": "Précommande, mi-août",
-    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/Display-OP17-Japonais.png?v=1785913391"
   },
   {
     "id": "seed-58",
@@ -945,16 +1045,6 @@
     "sku": "EB02",
     "category": "One Piece JP",
     "price": 79.74,
-    "notes": "",
-    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/i_ec_20260525204043.jpg?v=1785912993",
-    "outOfStock": true
-  },
-  {
-    "id": "seed-57",
-    "name": "OP-01",
-    "sku": "OP-01",
-    "category": "One Piece JP",
-    "price": 118.52,
     "notes": "",
     "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/i_ec_20260525204043.jpg?v=1785912993",
     "outOfStock": true
