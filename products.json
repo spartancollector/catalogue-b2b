@@ -149,9 +149,9 @@
     "sku": "M6A",
     "category": "Pokémon JP",
     "price": 125,
-    "notes": "Coming Soon",
+    "notes": "Preorder — delivery end of September",
     "img": "https://raw.githubusercontent.com/spartancollector/catalogue-b2b/main/images/M6A.png",
-    "outOfStock": true
+    "outOfStock": false
   },
   {
     "id": "seed-17",
