@@ -383,8 +383,8 @@
     "sku": "OP-01",
     "category": "One Piece JP",
     "price": 118.52,
-    "notes": "(photo provisoire - version CN, JP à venir)",
-    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/693905.png?v=1786096770",
+    "notes": "",
+    "img": "https://raw.githubusercontent.com/spartancollector/catalogue-b2b/main/images/OP-01.webp",
     "outOfStock": true
   },
   {
@@ -393,8 +393,8 @@
     "sku": "OP-02",
     "category": "One Piece JP",
     "price": 98.05,
-    "notes": "(photo provisoire - version CN, JP à venir)",
-    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/696242.png?v=1786096727",
+    "notes": "",
+    "img": "https://raw.githubusercontent.com/spartancollector/catalogue-b2b/main/images/OP-02.webp",
     "outOfStock": true
   },
   {
@@ -403,8 +403,8 @@
     "sku": "OP-03",
     "category": "One Piece JP",
     "price": 96.97,
-    "notes": "(photo provisoire - version CN, JP à venir)",
-    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/714452.png?v=1786097081",
+    "notes": "",
+    "img": "https://raw.githubusercontent.com/spartancollector/catalogue-b2b/main/images/OP-03.webp",
     "outOfStock": true
   },
   {
@@ -414,7 +414,7 @@
     "category": "One Piece JP",
     "price": 86.2,
     "notes": "",
-    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/mv_01_da43ec74-4db2-4fca-8d2f-657edb8266e5.jpg?v=1788230543",
+    "img": "https://raw.githubusercontent.com/spartancollector/catalogue-b2b/main/images/OP-04.webp",
     "outOfStock": true
   },
   {
@@ -424,7 +424,7 @@
     "category": "One Piece JP",
     "price": 143.31,
     "notes": "",
-    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/mv_01.jpg?v=1788230542",
+    "img": "https://raw.githubusercontent.com/spartancollector/catalogue-b2b/main/images/OP-05.webp",
     "outOfStock": true
   },
   {
@@ -434,7 +434,7 @@
     "category": "One Piece JP",
     "price": 73.27,
     "notes": "",
-    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/mv_01_9bae75f1-a7f5-413d-b0f6-4157895f3b88.jpg?v=1788230543",
+    "img": "https://raw.githubusercontent.com/spartancollector/catalogue-b2b/main/images/OP-06.webp",
     "outOfStock": true
   },
   {
@@ -444,7 +444,7 @@
     "category": "One Piece JP",
     "price": 56.02,
     "notes": "",
-    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/i_ec_20260525204133.png?v=1785913058"
+    "img": "https://raw.githubusercontent.com/spartancollector/catalogue-b2b/main/images/OP-07.webp"
   },
   {
     "id": "seed-121",
@@ -453,7 +453,7 @@
     "category": "One Piece JP",
     "price": 40.95,
     "notes": "",
-    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/mv_01_d88e4ec8-308c-4ad1-a3f1-bf8b2c7a6212.jpg?v=1788230543",
+    "img": "https://raw.githubusercontent.com/spartancollector/catalogue-b2b/main/images/OP-08.webp",
     "outOfStock": true
   },
   {
@@ -463,7 +463,7 @@
     "category": "One Piece JP",
     "price": 105.6,
     "notes": "",
-    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/i_ec_20260525204051.jpg?v=1785913098"
+    "img": "https://raw.githubusercontent.com/spartancollector/catalogue-b2b/main/images/OP-09.webp"
   },
   {
     "id": "seed-122",
@@ -471,8 +471,8 @@
     "sku": "OP-10",
     "category": "One Piece JP",
     "price": 36.64,
-    "notes": "(photo provisoire - version CN, JP à venir)",
-    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/802157.png?v=1786096620",
+    "notes": "",
+    "img": "https://raw.githubusercontent.com/spartancollector/catalogue-b2b/main/images/OP-10.webp",
     "outOfStock": true
   },
   {
@@ -482,7 +482,7 @@
     "category": "One Piece JP",
     "price": 99.12,
     "notes": "",
-    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/38af9960589fc61b4cab4d75de72d1ba.jpg?v=1785913175"
+    "img": "https://raw.githubusercontent.com/spartancollector/catalogue-b2b/main/images/OP-11.webp"
   },
   {
     "id": "seed-47",
@@ -491,7 +491,7 @@
     "category": "One Piece JP",
     "price": 62.5,
     "notes": "",
-    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/i_ec_20260525204115.jpg?v=1785913224"
+    "img": "https://raw.githubusercontent.com/spartancollector/catalogue-b2b/main/images/OP-12.webp"
   },
   {
     "id": "seed-48",
@@ -500,7 +500,7 @@
     "category": "One Piece JP",
     "price": 104.51,
     "notes": "",
-    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/i_ec_20260525204214.jpg?v=1785913276"
+    "img": "https://raw.githubusercontent.com/spartancollector/catalogue-b2b/main/images/OP-13.webp"
   },
   {
     "id": "seed-123",
@@ -508,8 +508,8 @@
     "sku": "OP-14",
     "category": "One Piece JP",
     "price": 64.65,
-    "notes": "(photo provisoire - version CN, JP à venir)",
-    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/i_ec_20260525204025.jpg?v=1786005516",
+    "notes": "",
+    "img": "https://raw.githubusercontent.com/spartancollector/catalogue-b2b/main/images/OP-14.webp",
     "outOfStock": true
   },
   {
@@ -519,7 +519,7 @@
     "category": "One Piece JP",
     "price": 56.02,
     "notes": "",
-    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/img_item01_f8220180-f195-41a6-b227-fb7187e5838a.webp?v=1788230606",
+    "img": "https://raw.githubusercontent.com/spartancollector/catalogue-b2b/main/images/OP-15.webp",
     "outOfStock": true
   },
   {
@@ -529,7 +529,7 @@
     "category": "One Piece JP",
     "price": 64.65,
     "notes": "",
-    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/891004.png?v=1786091534"
+    "img": "https://raw.githubusercontent.com/spartancollector/catalogue-b2b/main/images/OP-16.webp"
   },
   {
     "id": "seed-52",
@@ -538,7 +538,7 @@
     "category": "One Piece JP",
     "price": 94.83,
     "notes": "Précommande, mi-août",
-    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/Display-OP17-Japonais.png?v=1785913391"
+    "img": "https://raw.githubusercontent.com/spartancollector/catalogue-b2b/main/images/OP-17.webp"
   },
   {
     "id": "seed-50",
