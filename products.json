@@ -321,7 +321,7 @@
     "sku": "GEMPACK-1",
     "category": "Pokémon CN",
     "price": 0,
-    "notes": "Brouillon, prix à définir",
+    "notes": "Out of stock",
     "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/download.webp?v=1785846016",
     "outOfStock": true
   },
@@ -924,7 +924,7 @@
     "id": "seed-90",
     "name": "Palworld TCG — Dawn of Palpagos Booster Box",
     "sku": "PALWORLD-BP01-EN",
-    "category": "Palworld",
+    "category": "Palworld TCG",
     "price": 79.9,
     "notes": "",
     "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/Gemini_Generated_Image_82svsa82svsa82sv_27b81393-f9ae-420f-839d-f6f13317583c.png?v=1785250937"
