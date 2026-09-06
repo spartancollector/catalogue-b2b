@@ -930,159 +930,6 @@
     "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/Gemini_Generated_Image_82svsa82svsa82sv_27b81393-f9ae-420f-839d-f6f13317583c.png?v=1785250937"
   },
   {
-    "id": "seed-95",
-    "name": "2025-26 Topps Basketball — Value Box",
-    "sku": "TOPPS-BB-VALUE",
-    "category": "Sports Cards",
-    "price": 53.45,
-    "notes": "",
-    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/2025-26ToppsChromeBasketball_34a18b3d-1e19-4b38-8b75-07c45b684a81.avif?v=1786704395"
-  },
-  {
-    "id": "seed-96",
-    "name": "2025-26 Topps Chrome Basketball — Value Box (Flagship)",
-    "sku": "CHROME-BB-VALUE",
-    "category": "Sports Cards",
-    "price": 84.72,
-    "notes": "",
-    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/2025-26ToppsBasketball_684e853a-62a4-4d30-afa4-6097e92427e4.avif?v=1786704328"
-  },
-  {
-    "id": "seed-97",
-    "name": "2025-26 NBA Hoops — Value Box",
-    "sku": "HOOPS-BB-VALUE",
-    "category": "Sports Cards",
-    "price": 60.51,
-    "notes": "",
-    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/2025-26ToppsChromeBasketball_HangerBox.avif?v=1786704269"
-  },
-  {
-    "id": "seed-98",
-    "name": "2025-26 Topps Basketball — Mega Box",
-    "sku": "TOPPS-BB-MEGA",
-    "category": "Sports Cards",
-    "price": 105.9,
-    "notes": "",
-    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/2025-26ToppsBasketballMegaBox_1907a476-8c1b-4a33-b1d8-753ac2507060.avif?v=1786704197"
-  },
-  {
-    "id": "seed-99",
-    "name": "2025-26 Topps Chrome Basketball — Mega Box (Flagship)",
-    "sku": "CHROME-BB-MEGA",
-    "category": "Sports Cards",
-    "price": 199.69,
-    "notes": "",
-    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/2025-26ToppsBasketballMegaBox.avif?v=1786703850"
-  },
-  {
-    "id": "seed-100",
-    "name": "2025-26 Topps Signature Class Basketball — Mega Box",
-    "sku": "SIGNATURE-BB-MEGA",
-    "category": "Sports Cards",
-    "price": 128.09,
-    "notes": "",
-    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/2025-26ToppsSignatureClassBasketball_MegaBox.avif?v=1786703776"
-  },
-  {
-    "id": "seed-101",
-    "name": "2025-26 Topps Chrome Basketball — Hanger Box",
-    "sku": "CHROME-BB-HANGER",
-    "category": "Sports Cards",
-    "price": 75.64,
-    "notes": "",
-    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/2025-26ToppsChromeBasketball.avif?v=1786703714"
-  },
-  {
-    "id": "seed-102",
-    "name": "2025-26 Topps Midnight Basketball — Hobby Box",
-    "sku": "MIDNIGHT-BB-HOBBY",
-    "category": "Sports Cards",
-    "price": 976.28,
-    "notes": "",
-    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/2025-26ToppsMidnightBasketball_HobbyBox.jpg?v=1786703642"
-  },
-  {
-    "id": "seed-103",
-    "name": "2025-26 Topps Basketball — Hobby Box",
-    "sku": "TOPPS-BB-HOBBY",
-    "category": "Sports Cards",
-    "price": 319.71,
-    "notes": "",
-    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/2025-26ToppsBasketball_HobbyBox.avif?v=1786703606"
-  },
-  {
-    "id": "seed-104",
-    "name": "2025 Topps Chrome F1 — Value Box",
-    "sku": "CHROME-F1-VALUE",
-    "category": "Sports Cards",
-    "price": 74.63,
-    "notes": "",
-    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/2025ToppsChromeF1.jpg?v=1786703569"
-  },
-  {
-    "id": "seed-105",
-    "name": "2025 Topps Chrome F1 — Hobby Box",
-    "sku": "CHROME-F1-HOBBY",
-    "category": "Sports Cards",
-    "price": 498.22,
-    "notes": "",
-    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/2025ToppsChromeF1HobbyBox.webp?v=1786702297"
-  },
-  {
-    "id": "seed-106",
-    "name": "2026 Topps Official Collectors Kit",
-    "sku": "TOPPS-COLLECTORS-KIT",
-    "category": "Sports Cards",
-    "price": 135.15,
-    "notes": "",
-    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/2026ToppsOfficialCollectorsKit.avif?v=1786703517"
-  },
-  {
-    "id": "seed-107",
-    "name": "2023 Panini One Football — Hobby Box",
-    "sku": "PANINI-ONE-FOOTBALL-HOBBY",
-    "category": "Sports Cards",
-    "price": 615.22,
-    "notes": "",
-    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/2023PaniniOneFootballHobbyBox.avif?v=1786703457"
-  },
-  {
-    "id": "seed-108",
-    "name": "2025-26 NBA Hoops — Hobby Box",
-    "sku": "HOOPS-BB-HOBBY",
-    "category": "Sports Cards",
-    "price": 476.04,
-    "notes": "",
-    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/2025-26NBAHoops_HobbyBox.avif?v=1786703361"
-  },
-  {
-    "id": "seed-109",
-    "name": "2025-26 NBA Hoops — Hobby Jumbo Box",
-    "sku": "HOOPS-BB-HOBBY-JUMBO",
-    "category": "Sports Cards",
-    "price": 819.95,
-    "notes": "",
-    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/2025-26NBAHoops_HobbyjumboBox.avif?v=1786703199"
-  },
-  {
-    "id": "seed-110",
-    "name": "2025-26 NBA Hoops — Hanger Box",
-    "sku": "HOOPS-BB-HANGER",
-    "category": "Sports Cards",
-    "price": 41.35,
-    "notes": "",
-    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/2025-26NBAHoops_HangerBox.avif?v=1786703120"
-  },
-  {
-    "id": "seed-111",
-    "name": "2024 Topps Bowman Chrome Baseball — Hobby Master Box",
-    "sku": "BOWMAN-CHROME-BB-HOBBY",
-    "category": "Sports Cards",
-    "price": 512.34,
-    "notes": "",
-    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/2024ToppsBowmanChromeBaseballHobbyMasterBox_d1767d0b-c39c-4ba8-9a7d-b502e59cbc07.avif?v=1786703032"
-  },
-  {
     "id": "seed-92",
     "name": "Luffy Watermelon (Oda) — Carte à l'unité",
     "sku": "SINGLE-LUFFY-WATERMELON-ODA",
@@ -1117,5 +964,14 @@
     "price": 32.9,
     "notes": "",
     "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/s-l1600.webp?v=1788667361"
+  },
+  {
+    "id": "topps-flagship-nfl-mega-2026",
+    "name": "2025 Topps Flagship NFL — Mega Box",
+    "sku": "TOPPS-FLAGSHIP-NFL-MEGA",
+    "category": "Sports Cards",
+    "price": 69.9,
+    "notes": "",
+    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/topps_nfl_mega_2026.jpg?v=1788666796"
   }
 ]
