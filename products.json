@@ -930,33 +930,6 @@
     "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/Gemini_Generated_Image_82svsa82svsa82sv_27b81393-f9ae-420f-839d-f6f13317583c.png?v=1785250937"
   },
   {
-    "id": "seed-92",
-    "name": "Luffy Watermelon (Oda) — Carte à l'unité",
-    "sku": "SINGLE-LUFFY-WATERMELON-ODA",
-    "category": "Goodies",
-    "price": 49.9,
-    "notes": "",
-    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/Gemini_Generated_Image_nru6l0nru6l0nru6.png?v=1785269794"
-  },
-  {
-    "id": "seed-93",
-    "name": "Monkey D. Luffy P-159 — Promo Weekly Jump 33 (Elbaf)",
-    "sku": "SINGLE-LUFFY-P159-WJ33",
-    "category": "Goodies",
-    "price": 39.9,
-    "notes": "",
-    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/Gemini_Generated_Image_ippyn1ippyn1ippy.png?v=1785269722"
-  },
-  {
-    "id": "seed-94",
-    "name": "Weekly Shonen Jump 2026 #33 — avec carte promo Luffy P-159",
-    "sku": "WJ-33-2026",
-    "category": "Goodies",
-    "price": 44.9,
-    "notes": "",
-    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/Gemini_Generated_Image_51x3cp51x3cp51x3.png?v=1785269453"
-  },
-  {
     "id": "palworld-dawn-palpagos-cn",
     "name": "Palworld TCG — Dawn of Palpagos (Set 01) — Chinese Version",
     "sku": "PALWORLD-SET01-CN",
@@ -966,12 +939,30 @@
     "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/s-l1600.webp?v=1788667361"
   },
   {
-    "id": "topps-flagship-nfl-mega-2026",
-    "name": "2025 Topps Flagship NFL — Mega Box",
-    "sku": "TOPPS-FLAGSHIP-NFL-MEGA",
-    "category": "Sports Cards",
-    "price": 69.9,
+    "id": "seed-92",
+    "name": "Luffy Watermelon (Oda) — Carte à l'unité",
+    "sku": "SINGLE-LUFFY-WATERMELON-ODA",
+    "category": "Goodies",
+    "price": 30.0,
     "notes": "",
-    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/topps_nfl_mega_2026.jpg?v=1788666796"
+    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/Gemini_Generated_Image_nru6l0nru6l0nru6.png?v=1785269794"
+  },
+  {
+    "id": "seed-93",
+    "name": "Monkey D. Luffy P-159 — Promo Weekly Jump 33 (Elbaf)",
+    "sku": "SINGLE-LUFFY-P159-WJ33",
+    "category": "Goodies",
+    "price": 30.0,
+    "notes": "",
+    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/Gemini_Generated_Image_ippyn1ippyn1ippy.png?v=1785269722"
+  },
+  {
+    "id": "seed-94",
+    "name": "Weekly Shonen Jump 2026 #33 — avec carte promo Luffy P-159",
+    "sku": "WJ-33-2026",
+    "category": "Goodies",
+    "price": 39.0,
+    "notes": "",
+    "img": "https://cdn.shopify.com/s/files/1/1003/3548/5254/files/Gemini_Generated_Image_51x3cp51x3cp51x3.png?v=1785269453"
   }
 ]
